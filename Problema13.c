@@ -1,4 +1,4 @@
-/*Karla   Yoseline Martinez Flores
+/*Karla Yoseline Martinez Flores
 Ejercicio
 Problema13.c*/
 
