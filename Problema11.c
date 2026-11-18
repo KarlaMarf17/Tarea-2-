@@ -1,6 +1,6 @@
 /*Karla Yoseline Martinez Flores 
 Ejercicio
-problema8.c*/
+problema11.c*/
 
 #include<stdio.h>
 int main()
